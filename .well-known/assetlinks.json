@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mbkeys_stage.twa",
+    "sha256_cert_fingerprints": ["5B:83:FB:42:F3:B6:AE:8A:12:F7:F7:2B:81:7E:4B:86:85:49:CB:69:E6:6F:1C:E9:BD:B1:B4:78:38:DE:19:07"]
+  }
+}]
