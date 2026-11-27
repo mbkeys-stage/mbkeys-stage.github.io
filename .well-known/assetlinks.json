@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.mbkeys_stage.twa",
-    "sha256_cert_fingerprints": ["5B:83:FB:42:F3:B6:AE:8A:12:F7:F7:2B:81:7E:4B:86:85:49:CB:69:E6:6F:1C:E9:BD:B1:B4:78:38:DE:19:07"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mbkeys_stage.twa",
+        "sha256_cert_fingerprints": ["67:CB:5B:85:42:F7:84:78:24:0A:E3:BB:B0:61:C5:7E:AB:C8:D3:39:EB:35:B9:F8:B9:2A:85:41:02:79:A7:14"]
+      }
+    }]
